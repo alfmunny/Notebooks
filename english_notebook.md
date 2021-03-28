@@ -177,9 +177,9 @@ a seat without a back or arms.origin: German: Stuhl
 
 a force tending to pull or stretch something to an extreme or damaging degree.
 
-## tainted<a id="sec-1-34"></a>
+## tainted <a id="org4337eab"></a><a id="sec-1-34"></a>
 
-<a id="org1181929"></a> contaminated or polluted
+contaminated or polluted
 
 > During the Cultural Revolution, when anti-American propaganda reached a climax, the Chinese government had said much about the Peace Corps &#x2013; that it was in league with CIA, that it was an agent of Western imperialism. [River Town](books/river_town.md)
 
@@ -191,7 +191,7 @@ a force tending to pull or stretch something to an extreme or damaging degree.
 
 ## in league with<a id="sec-2-2"></a>
 
-See [1.34](#org1181929)
+See [tainted](#org4337eab)
 
 # Notes<a id="sec-3"></a>
 
