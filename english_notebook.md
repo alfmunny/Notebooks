@@ -179,7 +179,7 @@ a force tending to pull or stretch something to an extreme or damaging degree.
 
 ## tainted<a id="sec-1-34"></a>
 
-contaminated or polluted
+<a id="org1181929"></a> contaminated or polluted
 
 > During the Cultural Revolution, when anti-American propaganda reached a climax, the Chinese government had said much about the Peace Corps &#x2013; that it was in league with CIA, that it was an agent of Western imperialism. [River Town](books/river_town.md)
 
@@ -191,7 +191,7 @@ contaminated or polluted
 
 ## in league with<a id="sec-2-2"></a>
 
-See [tainted](#tainted)
+See [1.34](#org1181929)
 
 # Notes<a id="sec-3"></a>
 
