@@ -195,4 +195,4 @@ contaminated or polluted
 
 # Notes<a id="sec-3"></a>
 
--   [Language Learning Daily Routine](journal_2021.md)
+-   [Language Learning Daily Routine](notes/20210328030634-language_learning.md)
