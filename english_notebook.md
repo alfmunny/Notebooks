@@ -1,5 +1,6 @@
 - [Words](#sec-1)
-- [Notes](#sec-2)
+- [Phrases](#sec-2)
+- [Notes](#sec-3)
 
 
 # Words<a id="sec-1"></a>
@@ -182,12 +183,16 @@ contaminated or polluted
 
 > During the Cultural Revolution, when anti-American propaganda reached a climax, the Chinese government had said much about the Peace Corps &#x2013; that it was in league with CIA, that it was an agent of Western imperialism. [River Town](books/river_town.md)
 
-## half a step off<a id="sec-1-35"></a>
+# Phrases<a id="sec-2"></a>
+
+## half a step off<a id="sec-2-1"></a>
 
 > Nothing was quite what it seemed, and that was how life went in those early days, everything uncertain and half a step off. [River Town](books/river_town.md)
 
-## in league with<a id="sec-1-36"></a>
+## in league with<a id="sec-2-2"></a>
 
-# Notes<a id="sec-2"></a>
+See [1.34](#org614fcb7)
+
+# Notes<a id="sec-3"></a>
 
 -   [Language Learning Daily Routine](journal_2021.md)
