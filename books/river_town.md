@@ -3,9 +3,11 @@
   - [How do you find the book?](#sec-1-2)
 - [Chapters](#sec-2)
   - [Chapter One: Downstream](#sec-2-1)
-    - [Summary in three sentences](#sec-2-1-1)
+    - [Summary](#sec-2-1-1)
     - [Quotes](#sec-2-1-2)
-  - [Chapter Two:](#sec-2-2)
+  - [Chapter Two: Shakespear with Chinese Characteristics](#sec-2-2)
+    - [Summary](#sec-2-2-1)
+    - [Quotes](#sec-2-2-2)
 
 
 # Summary<a id="sec-1"></a>
@@ -18,7 +20,7 @@
 
 ## Chapter One: Downstream<a id="sec-2-1"></a>
 
-### Summary in three sentences<a id="sec-2-1-1"></a>
+### Summary<a id="sec-2-1-1"></a>
 
 The author, Peter Hessler, came to the small Chinese town Fuling in 1996 with another volunteer called Adam Meier. They were sent by Peace Corps from America, to work there as English teacher. They would spent next 2 years in Fuling.
 
@@ -34,4 +36,8 @@ They observed the daily routines of the school and tried to fit into it. The mos
 
 > It was hard for me to imagine a better job. My students were eager and respectful, and they were bright.
 
-## Chapter Two:<a id="sec-2-2"></a>
+## Chapter Two: Shakespear with Chinese Characteristics<a id="sec-2-2"></a>
+
+### Summary<a id="sec-2-2-1"></a>
+
+### Quotes<a id="sec-2-2-2"></a>
