@@ -7,7 +7,7 @@
 
 ## cobbler<a id="sec-1-1"></a>
 
-a person whose job is mending shoe > There are shops and restaurants, cobblers and barbers. [River Town](books/river_town.md)
+a person whose job is mending shoe > There are shops and restaurants, **cobblers** and barbers. [River Town](books/river_town.md)
 
 ## syringe<a id="sec-1-2"></a>
 
@@ -29,13 +29,13 @@ weave or become woven together
 
 a 180 grad bend in a road or path, especially one leading up the side of a mountain.
 
-> switchbacking up the hills. [River Town](books/river_town.md)
+> **switchbacking** up the hills. [River Town](books/river_town.md)
 
 ## lull<a id="sec-1-7"></a>
 
 verb: calm or send to sleep; noun: a temporary interval of quiet or lack of activity
 
-> a lull in the battle. [River Town](books/river_town.md)
+> a **lull** in the battle. [River Town](books/river_town.md)
 
 > The rhythm of the boat lulled her to sleep
 
@@ -43,7 +43,7 @@ verb: calm or send to sleep; noun: a temporary interval of quiet or lack of acti
 
 strange and frightening
 
-> But never is there any shortage of these men, and there is something eerie in their silent ubiquity. [River Town](books/river_town.md)
+> But never is there any shortage of these men, and there is something **eerie** in their silent ubiquity. [River Town](books/river_town.md)
 
 ## ubiquity<a id="sec-1-9"></a>
 
@@ -53,7 +53,7 @@ the fact of appearing everywhere or of being very common
 
 a large tent used for social or commercial functions
 
-> Occasionally a small variety show will stop in Fuling and pitch its tent on the river flats, fronted by an advertisement featuring more or less undressed dancing girls, and invariably there is a lost regiment of stick-stick soldiers gaping at the marquee [River Town](books/river_town.md)
+> Occasionally a small variety show will stop in Fuling and pitch its tent on the river flats, fronted by an advertisement featuring more or less undressed dancing girls, and invariably there is a lost regiment of stick-stick soldiers gaping at the **marquee**. [River Town](books/river_town.md)
 
 ## gaping<a id="sec-1-11"></a>
 
@@ -67,13 +67,13 @@ adj. causing horror or disgust
 
 a vehicle or building badly damaged; physical or mental health or strength has failed
 
-> They are quiet men — even the most grisly wreck sometimes fails to inspire them to words. [River Town](books/river_town.md)
+> They are quiet men — even the most grisly **wreck** sometimes fails to inspire them to words. [River Town](books/river_town.md)
 
 ## stocky<a id="sec-1-14"></a>
 
 broad and sturdily build
 
-> They are short, stocky men, their bodies shaped by the hilly city and the nature of their work. [River Town](books/river_town.md)
+> They are short, **stocky** men, their bodies shaped by the hilly city and the nature of their work. [River Town](books/river_town.md)
 
 ## drench<a id="sec-1-15"></a>
 
@@ -83,7 +83,7 @@ wet thoroughly; soak; origin: old English drencan, 'force to drink', related to 
 
 polish by rubbing
 
-> In summer, when they go without shirts, you can see where the bamboo poles have burnished the skin along their shoulders like leather. [River Town](books/river_town.md)
+> In summer, when they go without shirts, you can see where the bamboo poles have **burnished** the skin along their shoulders like leather. [River Town](books/river_town.md)
 
 ## bulge<a id="sec-1-17"></a>
 
@@ -93,19 +93,19 @@ a rounded swelling which distorts an otherwise flat surfaces.
 
 a rough knotty protuberance, especially on a tree
 
-> Fuling is a city of legs — the gnarled calves of a stick-stick soldier. [River Town](books/river_town.md)
+> Fuling is a city of legs — the **gnarled** calves of a stick-stick soldier. [River Town](books/river_town.md)
 
 ## protuberance<a id="sec-1-19"></a>
 
 a thing that protrudes from something else
 
-> some dinosaurs evolved protuberances on top of their heads
+> some dinosaurs evolved **protuberances** on top of their heads
 
 ## protrude<a id="sec-1-20"></a>
 
 extend beyond or above a surface
 
-> something like a fin protrudes from the water
+> something like a fin **protrudes** from the water
 
 ## calf, calves<a id="sec-1-21"></a>
 
@@ -115,31 +115,31 @@ the fleshy part at the back of a person's leg below the knee
 
 lacking distinctive or interesting features or characteristics
 
-> But this district is shrinking, steadily being replaced by the nondescript modern buildings that already dominate the city. [River Town](books/river_town.md)
+> But this district is shrinking, steadily being replaced by the **nondescript** modern buildings that already dominate the city. [River Town](books/river_town.md)
 
 ## sheer, sheerly, sheerness<a id="sec-1-23"></a>
 
 nothing other than; unmitigated, used for emphasis
 
-> To travel through Sichuan countryside is to feel the history, the years of work that have shaped the land, the sheer weight of humanity on patches of earth that have been worked in the same way for centuries. [River Town](books/river_town.md)
+> To travel through Sichuan countryside is to feel the history, the years of work that have shaped the land, the **sheer** weight of humanity on patches of earth that have been worked in the same way for centuries. [River Town](books/river_town.md)
 
 ## unmitigated<a id="sec-1-24"></a>
 
 absolute; unqualified
 
-> The tour had been an unmitigated disaster
+> The tour had been an **unmitigated** disaster
 
 ## haze<a id="sec-1-25"></a>
 
 a slight obscuration of the lower atmosphere, typically caused by fine suspended particles
 
-> Dawn. A cool morning, the city covered in haze. Retirees practice taiji in the small park near South Mountain Gate, the central intersection. [River Town](books/river_town.md)
+> Dawn. A cool morning, the city covered in **haze**. Retirees practice taiji in the small park near South Mountain Gate, the central intersection. [River Town](books/river_town.md)
 
 ## attic<a id="sec-1-26"></a>
 
 a space or room inside or partly inside the roof of a building.
 
-> Few things are more pathetic than a tree in Fuling, its leaves grey and dull as if it were just taken out of attic. [River Town](books/river_town.md)
+> Few things are more pathetic than a tree in Fuling, its leaves grey and dull as if it were just taken out of **attic**. [River Town](books/river_town.md)
 
 ## mottled<a id="sec-1-27"></a>
 
@@ -149,7 +149,7 @@ marked with spots or smears of color.
 
 a varied mixture of people or things; a swimming race in which contestants swim sections in different strokes, either individually or in relay teams. mixed; motley;
 
-> It is a mottled medley of sounds: honking horns, roaring television shops, blaring cassette tape stands, the uneven buzz of streetside sales-people calling out to the passersby. [River Town](books/river_town.md)
+> It is a mottled **medley** of sounds: honking horns, roaring television shops, blaring cassette tape stands, the uneven buzz of streetside sales-people calling out to the passersby. [River Town](books/river_town.md)
 
 ## blaring<a id="sec-1-29"></a>
 
@@ -159,13 +159,13 @@ a loud, harsh sound
 
 cancel or postpone the punishment of (someone, especially someone condemned to death); abandon or postpone plans to close or abolish; temporary relief, as from trouble or pain
 
-> East of South Mountain gate there is a sudden reprieve, a completely different strain, the soft but piercing music of an erhu played by a blind man. [River Town](books/river_town.md)
+> East of South Mountain gate there is a sudden **reprieve**, a completely different strain, the soft but piercing music of an erhu played by a blind man. [River Town](books/river_town.md)
 
 ## taut<a id="sec-1-31"></a>
 
 stretched or pulled tight; not slack
 
-> Erhu means "two strings" — that is all. It is a simple name for a simple musical instrument: a cylindrical wooden sound box covered by python skin and topped by an upright handle with two strings stretched taut alone its length. [River Town](books/river_town.md)
+> Erhu means "two strings" — that is all. It is a simple name for a simple musical instrument: a cylindrical wooden sound box covered by python skin and topped by an upright handle with two strings stretched **taut** alone its length. [River Town](books/river_town.md)
 
 ## stool<a id="sec-1-32"></a>
 
@@ -179,7 +179,7 @@ a force tending to pull or stretch something to an extreme or damaging degree.
 
 contaminated or polluted
 
-> These things are were no longer said, but the echoes still remainded, and the word was hopelessly tainted. [River Town](books/river_town.md)
+> These things are were no longer said, but the echoes still remainded, and the word was hopelessly **tainted**. [River Town](books/river_town.md)
 
 ## segue<a id="sec-1-35"></a>
 
@@ -223,71 +223,105 @@ of the nature of peat
 
 teach doctrines; teach uncritically
 
+> They were arguing about China, and they were arguing about the political dogma with which all of them had been indoctrinated. [River Town](books/river_town.md) (P37)
+
 ## cadre<a id="sec-1-46"></a>
 
-## oblivious<a id="sec-1-47"></a>
-
-## chaff<a id="sec-1-48"></a>
+## chaff<a id="sec-1-47"></a>
 
 leaves that have been separated from the seeds > The biggest problem was separating **wheat from the chaff**. [River Town](books/river_town.md) (P40)
 
-## archaism<a id="sec-1-49"></a>
+## archaism<a id="sec-1-48"></a>
 
 to use archaic expressions archaic: so extremely old as seeming to belong to an earlier period
 
-> Verse never seem to bore or frustrate them. The only stumbling block was language, the new vocabulary and the English archaisms, and with these they had infinite patience. [River Town](books/river_town.md) (P42)
+> Verse never seem to bore or frustrate them. The only stumbling block was language, the new vocabulary and the English **archaisms**, and with these they had infinite patience. [River Town](books/river_town.md) (P42)
 
-## sonnet<a id="sec-1-50"></a>
+## sonnet<a id="sec-1-49"></a>
 
-## advent<a id="sec-1-51"></a>
+specially a short form of poem, limited to 14 lines with prescribed disposition and rimes
 
-## pointed<a id="sec-1-52"></a>
+## rime<a id="sec-1-50"></a>
 
-## clinicism<a id="sec-1-53"></a>
+a verse or line agreeing with another in terminal sounds
 
-## enamored<a id="sec-1-54"></a>
+## oblivious<a id="sec-1-51"></a>
 
-## peasantry<a id="sec-1-55"></a>
+lacking awareness; unmindful
 
-## tinkered<a id="sec-1-56"></a>
+> Third-year students studied Building Chinese Socialism, **oblivious** that the city across the Wu, with its booming private businesses and bankrupt state-owned enterprises, was a testimony to the Dismantling of Chinese Socialism that was happening all across the country. [River Town](books/river_town.md) (P39) > He was quite **oblivious** of the danger.
 
-## brochure<a id="sec-1-57"></a>
+## covet<a id="sec-1-52"></a>
 
-## cramped<a id="sec-1-58"></a>
+wish, long or crave for something > They took their political meetings and rallies seriously, and they **coveted** the chance to join the Communist Party. [River Town](books/river_town.md) (P39)
 
-## podium<a id="sec-1-59"></a>
+## advent<a id="sec-1-53"></a>
 
-## incorrigible<a id="sec-1-60"></a>
+arrival that has been waited (especially something momentous) > The advent of Euro will redefine Europe.
 
-## writhing<a id="sec-1-61"></a>
+## groan<a id="sec-1-54"></a>
 
-## cone-shaped<a id="sec-1-62"></a>
+an utterance expression pain or disapproval > Nobody groaned when I assigned Bewulf &#x2013; as far as they were concerned, it was just a good monster story. [River Town](books/river_town.md) (P44)
 
-## papier mache<a id="sec-1-63"></a>
+## pointed<a id="sec-1-55"></a>
 
-## knotty<a id="sec-1-64"></a>
+## clinicism<a id="sec-1-56"></a>
 
-## imperiously<a id="sec-1-65"></a>
+## enamored<a id="sec-1-57"></a>
 
-## misnamed<a id="sec-1-66"></a>
+marked by foolish or unreasoning fondness > My original plan had been to become a professor of literature, but over time i became less enamored of what I saw in English departments, especially in America. [River Town](books/river_town.md) (P45)
 
-## colloquial<a id="sec-1-67"></a>
+## peasantry<a id="sec-1-58"></a>
 
-## soliloquy<a id="sec-1-68"></a>
+## tinkered<a id="sec-1-59"></a>
 
-## backwater<a id="sec-1-69"></a>
+## brochure<a id="sec-1-60"></a>
 
-## palpable<a id="sec-1-70"></a>
+## cramped<a id="sec-1-61"></a>
 
-## ebb<a id="sec-1-71"></a>
+## podium<a id="sec-1-62"></a>
 
-## kowtow<a id="sec-1-72"></a>
+## incorrigible<a id="sec-1-63"></a>
 
-## hapless<a id="sec-1-73"></a>
+informal language
 
-## chilblain<a id="sec-1-74"></a>
+## writhing<a id="sec-1-64"></a>
 
-## iambic<a id="sec-1-75"></a>
+moving in a twisting or snake-like or worm-like fashion
+
+## cone-shaped<a id="sec-1-65"></a>
+
+a shape whose base is a circle and whose sides taper up to a point
+
+## papier mache<a id="sec-1-66"></a>
+
+## knotty<a id="sec-1-67"></a>
+
+## imperiously<a id="sec-1-68"></a>
+
+## misnamed<a id="sec-1-69"></a>
+
+## colloquial<a id="sec-1-70"></a>
+
+## soliloquy<a id="sec-1-71"></a>
+
+## backwater<a id="sec-1-72"></a>
+
+a place or situation regarded as isolated, stagnant or backward
+
+> And these were young men and women from the countryside of Sichuan province, a **backwater** by Chinese standards. They still read books and they still read poetry; that was the difference. [River Town](books/river_town.md) (P42)
+
+## palpable<a id="sec-1-73"></a>
+
+## ebb<a id="sec-1-74"></a>
+
+## kowtow<a id="sec-1-75"></a>
+
+## hapless<a id="sec-1-76"></a>
+
+## chilblain<a id="sec-1-77"></a>
+
+## iambic<a id="sec-1-78"></a>
 
 # Phrases<a id="sec-2"></a>
 
@@ -309,8 +343,12 @@ to use archaic expressions archaic: so extremely old as seeming to belong to an 
 
 ## wealth and woe<a id="sec-2-5"></a>
 
-[River Town](books/river_town.md) (P46)
+> [River Town](books/river_town.md) (P46)
 
 ## go about<a id="sec-2-6"></a>
 
-[River Town](books/river_town.md) (P47)
+to begin to do something or deal with something > [River Town](books/river_town.md) (P47)
+
+## part company<a id="sec-2-7"></a>
+
+end their relationship > It was, as Orwell would say, a case in which words and meaning had parted company. [River Town](books/river_town.md) (P39)
