@@ -1,5 +1,6 @@
 - [Language](#sec-1)
 
+The knowledge base entry.
 
 # Language<a id="sec-1"></a>
 

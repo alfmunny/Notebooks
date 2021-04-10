@@ -261,33 +261,55 @@ arrival that has been waited (especially something momentous) > The advent of Eu
 
 ## groan<a id="sec-1-54"></a>
 
-an utterance expression pain or disapproval > Nobody groaned when I assigned Bewulf &#x2013; as far as they were concerned, it was just a good monster story. [River Town](books/river_town.md) (P44)
+an utterance expression pain or disapproval > Nobody groaned when I assigned Beowulf &#x2013; as far as they were concerned, it was just a good monster story. [River Town](books/river_town.md) (P44)
 
 ## pointed<a id="sec-1-55"></a>
+
+clearly evident or conspicuous
 
 ## clinicism<a id="sec-1-56"></a>
 
 ## enamored<a id="sec-1-57"></a>
 
-marked by foolish or unreasoning fondness > My original plan had been to become a professor of literature, but over time i became less enamored of what I saw in English departments, especially in America. [River Town](books/river_town.md) (P45)
+marked by foolish or unreasoning fondness
+
+> My original plan had been to become a professor of literature, but over time i became less enamored of what I saw in English departments, especially in America. [River Town](books/river_town.md) (P45)
 
 ## peasantry<a id="sec-1-58"></a>
+
+the social class of peasants
+
+> &#x2026; and several pointed out that Hamlet is a great character because he cares deeply about the peasantry. [River Town](books/river_town.md) (P44)
 
 ## tinkered<a id="sec-1-59"></a>
 
 ## brochure<a id="sec-1-60"></a>
 
+a small booklet or pamphlet
+
 ## cramped<a id="sec-1-61"></a>
+
+uncomfortably small or restricted
+
+> This was the core of what we studied in that **cramped** classroom. [River Town](books/river_town.md) (P44)
 
 ## podium<a id="sec-1-62"></a>
 
+an elevated platform, as for orchestra conductor or public speaker
+
+> They pushed the teacher's **podium** to the side of the room and swept the floor, which was the stage. [River Town](books/river_town.md) (P47)
+
 ## incorrigible<a id="sec-1-63"></a>
 
-informal language
+incapable of being corrected
+
+> Acting transformed them entirely&#x2013;in class they could be painfully shy, but drama changed all of that, every gesture was overblown, every emotion overdone; they were **incorrigible** over-actors. [River Town](books/river_town.md) (P47)
 
 ## writhing<a id="sec-1-64"></a>
 
 moving in a twisting or snake-like or worm-like fashion
+
+> Roger played the dead king's ghost, a **writhing** howling spirit in a brightly painted **cone-shaped** Chinese emperor's crown that he had made of **papier mache**. [River Town](books/river_town.md) (P48)
 
 ## cone-shaped<a id="sec-1-65"></a>
 
@@ -295,39 +317,95 @@ a shape whose base is a circle and whose sides taper up to a point
 
 ## papier mache<a id="sec-1-66"></a>
 
+French for "chewed paper", is a composite material consisting of paper pieces or pulp, sometimes reinforced with textiles, bound with an adhesive, such as glue, starch, or wallpaper paste.
+
 ## knotty<a id="sec-1-67"></a>
 
-## imperiously<a id="sec-1-68"></a>
+difficult, intricate
 
-## misnamed<a id="sec-1-69"></a>
+> Romance was always a **knotty** issue for my students; even the most casual public contact between sexes was taboo, and to play a wife or a girlfriend was too embarrassing for most of the female students. [River Town](books/river_town.md) (P48)
 
-## colloquial<a id="sec-1-70"></a>
+## resolutely<a id="sec-1-68"></a>
 
-## soliloquy<a id="sec-1-71"></a>
+in a resolute manner, with fixed purpose
 
-## backwater<a id="sec-1-72"></a>
+> As a man, he should do what he wants to do **resolutely**. [River Town](books/river_town.md) (P46)
+
+## imperiously<a id="sec-1-69"></a>
+
+in an imperious manner
+
+> Sally said **imperiously**: How is it that the clouds still hang on you. [River Town](books/river_town.md) (P48)
+
+## misnamed<a id="sec-1-70"></a>
+
+> And Hamlet &#x2013; played by Barber, a nervous **misnamed** boy in thick glasses and cheap tan suit. [River Town](books/river_town.md) (P48)
+
+## colloquial<a id="sec-1-71"></a>
+
+informal language
+
+> The wrote most of the dialogue themselves&#x2013;the language of the play was too difficult and they used only the most famous lines, writing the rest in **colloquial** speech. [River Town](books/river_town.md) (P49)
+
+## soliloquy<a id="sec-1-72"></a>
+
+a dramatic or literary form of discourse in which a character talk to himself or herself or reveals his or her thoughts when alone or unaware of the presence of others
+
+> Hamlet's Act II **soliloquy** was performed by Soddy, the class monitor, who stood alone in front of the class and said, To be, or not to be: that is the question. [River Town](books/river_town.md) (P49)
+
+## backwater<a id="sec-1-73"></a>
 
 a place or situation regarded as isolated, stagnant or backward
 
 > And these were young men and women from the countryside of Sichuan province, a **backwater** by Chinese standards. They still read books and they still read poetry; that was the difference. [River Town](books/river_town.md) (P42)
 
-## palpable<a id="sec-1-73"></a>
+## palpable<a id="sec-1-74"></a>
 
-## ebb<a id="sec-1-74"></a>
+capable of being touched or felt; easily perceived.
 
-## kowtow<a id="sec-1-75"></a>
+> But that didn't matter, because now his talent was suddenly **palpable**; it was as if he had reached out and caught hold of his gift in the palm of his hand, turning it over once or twice, holding it as surely as he held our attention. [River Town](books/river_town.md) (P49)
 
-## hapless<a id="sec-1-76"></a>
+## ebb<a id="sec-1-75"></a>
 
-## chilblain<a id="sec-1-77"></a>
+to fall away or back; the receding or outgoing tide
 
-## iambic<a id="sec-1-78"></a>
+> But mostly his voice was perfect&#x2013;he controlled the pace and tone of his speech, the way Hamlet's emotions **rise and ebb** like a hot uncertain sea. [River Town](books/river_town.md) (P48)
+
+## kowtow<a id="sec-1-76"></a>
+
+the act of kneeling and touching the forehead to the ground
+
+## hapless<a id="sec-1-77"></a>
+
+luckless; unfortunate
+
+> The loved their **hapless** **prying** and they loved thier **demise**, the ways the servants are tricked into carring their own death warrants to the King of England. [River Town](books/river_town.md) (P50)
+
+## prying<a id="sec-1-78"></a>
+
+offensively curious or inquisitive.
+
+## demise<a id="sec-1-79"></a>
+
+death; the end of existance; termination
+
+## chilblain<a id="sec-1-80"></a>
+
+an inflammation followed by itchy irritation on the hands, feet, or ears, resulting from the exposure to moist cold.
+
+> The students started wearing coats, scarves, gloves; their fingers swelled with chilblains and their ears turned red. [River Town](books/river_town.md) (P51)
+
+## iambic<a id="sec-1-81"></a>
+
+iamb; a metrical foot consisting of an unstressed syllable and a stressed syllable
+
+> We read Swift, Wordsworth, Byron. The verses resounded with sweet regularity as we recited them aloud&#x2013;iambic puffs of steam rising toward the ceiling. [River Town](books/river_town.md) (P52)
 
 # Phrases<a id="sec-2"></a>
 
 ## half a step off<a id="sec-2-1"></a>
 
-> Nothing was quite what it seemed, and that was how life went in those early days, everything uncertain and half a step off. [River Town](books/river_town.md)
+> Nothing was quite what it seemed, and that was how life went in those early days, everything uncertain and **half a step off**. [River Town](books/river_town.md)
 
 ## in league with<a id="sec-2-2"></a>
 
@@ -343,12 +421,12 @@ a place or situation regarded as isolated, stagnant or backward
 
 ## wealth and woe<a id="sec-2-5"></a>
 
-> [River Town](books/river_town.md) (P46)
+> After all, two lovers should share **wealth and woe**. [River Town](books/river_town.md) (P46)
 
 ## go about<a id="sec-2-6"></a>
 
-to begin to do something or deal with something > [River Town](books/river_town.md) (P47)
+to begin to do something or deal with something > We were happy, reading poerty while out on the rivers all of Fuling **went about its business**. [River Town](books/river_town.md) (P47)
 
 ## part company<a id="sec-2-7"></a>
 
-end their relationship > It was, as Orwell would say, a case in which words and meaning had parted company. [River Town](books/river_town.md) (P39)
+end their relationship > It was, as Orwell would say, a case in which words and meaning had **parted company**. [River Town](books/river_town.md) (P39)
