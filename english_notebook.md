@@ -7,7 +7,9 @@
 
 ## cobbler<a id="sec-1-1"></a>
 
-a person whose job is mending shoe > There are shops and restaurants, **cobblers** and barbers. [River Town](books/river_town.md)
+a person whose job is mending shoe
+
+> There are shops and restaurants, **cobblers** and barbers. [River Town](books/river_town.md)
 
 ## syringe<a id="sec-1-2"></a>
 
@@ -183,11 +185,15 @@ contaminated or polluted
 
 ## segue<a id="sec-1-35"></a>
 
-(Music) proceed without interruption; the act of changing smoothly from one state or situation to another; > I knew I that I was uninspired teacher of the language's technical aspects, and I also knew that Shakespeare is an even worse technical grammar instructor than me. And I and studied literature for too long to use it as a **segue** to the present perfect tense. [River Town](books/river_town.md)
+(Music) proceed without interruption; the act of changing smoothly from one state or situation to another;
+
+> I knew I that I was uninspired teacher of the language's technical aspects, and I also knew that Shakespeare is an even worse technical grammar instructor than me. And I and studied literature for too long to use it as a **segue** to the present perfect tense. [River Town](books/river_town.md)
 
 ## jot<a id="sec-1-36"></a>
 
-to write down briefly or hastily > I asked them to **jot down** the titles of any English-language books they had read. [River Town](books/river_town.md)
+to write down briefly or hastily
+
+> I asked them to **jot down** the titles of any English-language books they had read. [River Town](books/river_town.md)
 
 ## claustrophobic<a id="sec-1-37"></a>
 
@@ -199,7 +205,11 @@ a relatively flat bottomed Chinese boat.
 
 ## barge<a id="sec-1-39"></a>
 
-a flatbottom boat for carrying heavy loads > I'd gaze out the door at the traffic on the rivers: the little two-man fishing **sampans**, the crowded ferries crossing from one bank to the other, the **barges** bringing coal and gravel north from the upper Wu, the big white tourist boats slipping down the Yangtze toward the Gorges. [River Town](books/river_town.md) (P35) > Raw materials were carried to the works by **barge**.
+a flat-bottom boat for carrying heavy loads
+
+> I'd gaze out the door at the traffic on the rivers: the little two-man fishing **sampans**, the crowded ferries crossing from one bank to the other, the **barges** bringing coal and gravel north from the upper Wu, the big white tourist boats slipping down the Yangtze toward the Gorges. [River Town](books/river_town.md) (P35)
+
+> Raw materials were carried to the works by **barge**.
 
 ## gravel<a id="sec-1-40"></a>
 
@@ -207,13 +217,17 @@ rock fragments or pebbles
 
 ## teeming<a id="sec-1-41"></a>
 
-abundantly filled with especially living things > During the class I used to look down at the traffic **teeming** on the rivers, at all of the fishermen and barge captains and dock workers. [River Town](books/river_town.md) (P35)
+abundantly filled with especially living things
+
+> During the class I used to look down at the traffic **teeming** on the rivers, at all of the fishermen and barge captains and dock workers. [River Town](books/river_town.md) (P35)
 
 ## jumbled<a id="sec-1-42"></a>
 
 ## moor<a id="sec-1-43"></a>
 
-open land usually with peaty soil covered with heather and bracken and moss > &#x2026; while the girls wrote about how cold and dark the **moor** was, and how monsters have feelings too. [River Town](books/river_town.md) (P35)
+open land usually with peaty soil covered with heather and bracken and moss
+
+> &#x2026; while the girls wrote about how cold and dark the **moor** was, and how monsters have feelings too. [River Town](books/river_town.md) (P35)
 
 ## peaty<a id="sec-1-44"></a>
 
@@ -229,7 +243,9 @@ teach doctrines; teach uncritically
 
 ## chaff<a id="sec-1-47"></a>
 
-leaves that have been separated from the seeds > The biggest problem was separating **wheat from the chaff**. [River Town](books/river_town.md) (P40)
+leaves that have been separated from the seeds
+
+> The biggest problem was separating **wheat from the chaff**. [River Town](books/river_town.md) (P40)
 
 ## archaism<a id="sec-1-48"></a>
 
@@ -249,19 +265,27 @@ a verse or line agreeing with another in terminal sounds
 
 lacking awareness; unmindful
 
-> Third-year students studied Building Chinese Socialism, **oblivious** that the city across the Wu, with its booming private businesses and bankrupt state-owned enterprises, was a testimony to the Dismantling of Chinese Socialism that was happening all across the country. [River Town](books/river_town.md) (P39) > He was quite **oblivious** of the danger.
+> Third-year students studied Building Chinese Socialism, **oblivious** that the city across the Wu, with its booming private businesses and bankrupt state-owned enterprises, was a testimony to the Dismantling of Chinese Socialism that was happening all across the country. [River Town](books/river_town.md) (P39)
+
+> He was quite **oblivious** of the danger.
 
 ## covet<a id="sec-1-52"></a>
 
-wish, long or crave for something > They took their political meetings and rallies seriously, and they **coveted** the chance to join the Communist Party. [River Town](books/river_town.md) (P39)
+wish, long or crave for something
+
+> They took their political meetings and rallies seriously, and they **coveted** the chance to join the Communist Party. [River Town](books/river_town.md) (P39)
 
 ## advent<a id="sec-1-53"></a>
 
-arrival that has been waited (especially something momentous) > The advent of Euro will redefine Europe.
+arrival that has been waited (especially something momentous)
+
+> The advent of Euro will redefine Europe.
 
 ## groan<a id="sec-1-54"></a>
 
-an utterance expression pain or disapproval > Nobody groaned when I assigned Beowulf &#x2013; as far as they were concerned, it was just a good monster story. [River Town](books/river_town.md) (P44)
+an utterance expression pain or disapproval
+
+> Nobody groaned when I assigned Beowulf &#x2013; as far as they were concerned, it was just a good monster story. [River Town](books/river_town.md) (P44)
 
 ## pointed<a id="sec-1-55"></a>
 
@@ -425,7 +449,9 @@ iamb; a metrical foot consisting of an unstressed syllable and a stressed syllab
 
 ## go about<a id="sec-2-6"></a>
 
-to begin to do something or deal with something > We were happy, reading poerty while out on the rivers all of Fuling **went about its business**. [River Town](books/river_town.md) (P47)
+to begin to do something or deal with something
+
+> We were happy, reading poerty while out on the rivers all of Fuling **went about its business**. [River Town](books/river_town.md) (P47)
 
 ## part company<a id="sec-2-7"></a>
 
