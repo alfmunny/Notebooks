@@ -5,7 +5,7 @@
   - [Chapter One: Downstream](#sec-2-1)
     - [Summary](#sec-2-1-1)
     - [Quotes](#sec-2-1-2)
-  - [Chapter Two: Shakespear with Chinese Characteristics](#sec-2-2)
+  - [Chapter Two: Shakespeare with Chinese Characteristics](#sec-2-2)
     - [Summary](#sec-2-2-1)
     - [Quotes](#sec-2-2-2)
 
@@ -36,8 +36,16 @@ They observed the daily routines of the school and tried to fit into it. The mos
 
 > It was hard for me to imagine a better job. My students were eager and respectful, and they were bright.
 
-## Chapter Two: Shakespear with Chinese Characteristics<a id="sec-2-2"></a>
+## Chapter Two: Shakespeare with Chinese Characteristics<a id="sec-2-2"></a>
 
 ### Summary<a id="sec-2-2-1"></a>
 
+He taught the students literature.
+
 ### Quotes<a id="sec-2-2-2"></a>
+
+> Every one of my Fuling students could recite at least a dozen Chinese classics by heart&#x2013;the verse of Du Fu, of Li Bai, of Qu Yuan&#x2013;and these were young men and women from the countryside of Sichuan province, a backwater by Chinese standards, They still read books and they still read poetry; that was the difference.
+
+> My only love, sprung from my only hate! Too early seen unknown, and known too late!
+
+> He was Hamlet and he was Lao Da; there was no longer any question in my mind. The students watched with rapt attention and at the end they applauded madly. For the rest of the year, whenever I looked at Soddy, at his square jaw and his cockeyed gaze and his dark peasant's complexion, I saw the Price of Denmark. That was exactly what Hamlet would have looked like in the countryside of Sichuan province.
