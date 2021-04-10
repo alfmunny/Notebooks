@@ -197,7 +197,9 @@ to write down briefly or hastily
 
 ## claustrophobic<a id="sec-1-37"></a>
 
-uncomfortably closed; abnormally afraid of closed-in places > Each room contained about fifteen more students than could comfortably fit, and it would have been **claustrophobic** if I hadn't been able to teach with the door open. [River Town](books/river_town.md) (P34)
+uncomfortably closed; abnormally afraid of closed-in places
+
+> Each room contained about fifteen more students than could comfortably fit, and it would have been **claustrophobic** if I hadn't been able to teach with the door open. [River Town](books/river_town.md) (P34)
 
 ## sampan<a id="sec-1-38"></a>
 
