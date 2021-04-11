@@ -40,7 +40,7 @@ They observed the daily routines of the school and tried to fit into it. The mos
 
 ### Summary<a id="sec-2-2-1"></a>
 
-He taught the students literature with Beowulf and Shakespeare. The fact that the students can easily grasp the rime and beauty of the poetry despite of the archaism of the language which they used. They could express the their own feelings about the characters in the Hamlet without always concerning about political agenda. They understood the form of poem or sonnet. They became over-actors in the play of Hamlet, even they were growing accustomed to their shyness.
+He taught the students literature with Beowulf and Shakespeare. The fact that the students can easily grasp the rime and beauty of the poetry despite of the archaism of the language surprised him and made him to compare them to American students inevitably. They could express the their own feelings about the characters in the Hamlet without always concerning about political agenda. They understood the form of poem or sonnet. They became over-actors in the play of Hamlet, even they were growing accustomed to their shyness.
 
 ### Quotes<a id="sec-2-2-2"></a>
 
